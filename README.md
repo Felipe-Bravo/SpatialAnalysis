@@ -7,5 +7,5 @@
 This repository includes the lab handouts and the datasets to complete the assignments.
 Users have to install [R](https://cran.r-project.org/) and QGIS (https://www.qgis.org/en/site/forusers/download.html)  while [RStudio](https://cran.r-project.org/) and [Notepad++](https://notepad-plus-plus.org/) are recomended.
 
-These materials are used during regular master spatial analysis courses [University of Valladolid](http://www.uva.es), Spain (2017-2020)
+These materials are used during regular patial analysis courses [University of Valladolid](http://www.uva.es), Spain (2017-2020)
 
